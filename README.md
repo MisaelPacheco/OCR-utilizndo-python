@@ -6,4 +6,5 @@
 #     4.- El archivo nombrado "clasificador.py" contiene el codigo knn que ayuda a clasificar 
 #     5.- El archivo nombrado "dataset.csv" es el dataSet creado
 #     6.- Abrir el archivo "clasificador.py" y ejecutarlo
+#     7.- El archivo "OCR.docx" contiene información de como se desarrollo el programa
 #                                                         Nota: Se utilizo el IDE spyder para el desarrollo de este proyecto
